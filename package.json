@@ -1,0 +1,12 @@
+{
+  "name": "Assignment16.1",
+  "description": "Example of NodeJS and Socket.io",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "*"
+  }
+}
